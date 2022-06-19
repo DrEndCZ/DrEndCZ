@@ -11,7 +11,6 @@
 I am programmer in languages, frameworks and APIs:
 
 <img src="https://imgur.com/AAOXuiT.png" alt="langs"/> 
-
 I can do more than there is, but I'm lazy to make more icons xd
 
 
